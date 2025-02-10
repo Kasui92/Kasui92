@@ -1,8 +1,8 @@
-# Luca Pattocchio
+# Ciao, I'm [Luca Pattocchio](https://lucapattocchio.dev) 👋🏻
 
 > I turn gibberish into web apps, outsmart stubborn terminals, but can't fix a washing machine—despite what my grandma thinks.
 
-## 💻 Tech Stack
+## 🧑🏻‍💻 I'm a Full Stack Web Developer
 - JavaScript | TypeScript | PHP
 - React | Next.js | Node.js
 - TailwindCSS | SASS
