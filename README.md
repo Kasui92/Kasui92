@@ -4,9 +4,9 @@
 
 ## 🧑🏻‍💻 I'm a Full Stack Web Developer
 - JavaScript | TypeScript | PHP
-- React | Next.js | Node.js
+- React | Next.js | Astro | Node.js
 - TailwindCSS | SASS
-- MySQL
+- MySQL | PostgreSQL
 - Docker
 - Terminal Wizard 🧙‍♂️
 
