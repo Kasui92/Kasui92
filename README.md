@@ -10,9 +10,6 @@
 - Docker
 - Terminal Wizard 🧙‍♂️
 
-## 📊 GitHub Stats
-![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kasui92&show_icons=true&theme=tokyonight)
-
 ## 🔗 Links
 - [Portfolio](https://lucapattocchio.dev)
 - [Resume](https://lucapattocchio.dev/CV-LucaPattocchio.pdf)
