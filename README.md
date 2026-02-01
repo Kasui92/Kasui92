@@ -13,5 +13,6 @@
 ## 🔗 Links
 - [Portfolio](https://lucapattocchio.dev)
 - [Resume](https://lucapattocchio.dev/CV-LucaPattocchio.pdf)
+- [Omakasui](https://omakasui.org)
 
 <div align="right">☕️ Powered by coffee and board games</div>
